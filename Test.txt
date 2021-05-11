@@ -3,3 +3,5 @@ I am learning Git
 
 Hello Word
 1234567
+
+WordCount
