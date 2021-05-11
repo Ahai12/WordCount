@@ -1,8 +1,0 @@
-I like English
-I am learning Git
-.
-Hello Word
-1234567
-
-WordCount
-123456
